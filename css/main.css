@@ -1,4 +1,10 @@
+.nav-icon{
+  background-color: floralwhite;
+  border-radius: 1rem;
+}
 .img-Nav{
-      width: 5rem;
-    }
-   
+  width: 5rem;
+}
+.headerPic{
+width: auto;
+}
